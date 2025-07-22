@@ -3,8 +3,6 @@ Meu nome é Gabriel Duarte, tenho 20 anos e estudo Ciência da Computação na U
 
 - Já fiz trabalhos por lá com C#(Unity), C, Java, Python e entre outras linguagens e tecnologias.
 
-- Atualmente estou estudando Python por conta própria, e pela faculdade estou aprendendo sobre MySql.
-
 ### Contato: gabrielduartee2005@gmail.com
 
 --------------------------------------
