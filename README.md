@@ -1,7 +1,7 @@
 # Oi! 👋 
 Meu nome é Gabriel Duarte, tenho 20 anos e estudo Ciência da Computação na Universidade Veiga de Almeida (5º período).
 
-- Já fiz trabalhos por lá com C#(Unity), C, Java, Python e entre outras linguagens e tecnologias.
+- Já fiz trabalhos por lá com C#(Unity), C, Java, Python e entre outras linguagens e tecnologias, como MySql.
 
 ### Contato: gabrielduartee2005@gmail.com
 
