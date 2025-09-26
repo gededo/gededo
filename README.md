@@ -7,7 +7,7 @@ Meu nome é Gabriel Duarte, tenho 20 anos e estudo Ciência da Computação na U
 
 --------------------------------------
 
-### Tecnologias que já utilizei:
+### Tecnologias que utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cs,python,mysql,figma,git,github,html,css,vscode,androidstudio,firebase,unity)](https://skillicons.dev)
 
